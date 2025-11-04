@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React and Next.js projects<br>- 🤝 I’m looking to collaborate on open-source or freelance frontend projects<br>- ❓ I’m looking for help with freelancing and finding clients<br>- 🌱 I’m currently learning Next.js and Firebase<br>- 💬 Ask me about React, JavaScript, or building responsive user interfaces<br>- 😄 Fun fact: I almost became a cricketer before diving into web development!
+🔭 I’m currently working on Backend projects<br>- 🤝 I’m looking to collaborate on open-source or freelance frontend projects<br>- ❓ I’m looking for help with freelancing and finding clients<br>- 🌱 I’m currently learning NodeJS, ExpressJs, MongoDB<br>- 💬 Ask me about Next, React, JavaScript, or building responsive user interfaces<br>- 😄 Fun fact: I almost became a cricketer before diving into web development!
 
 
 ## 🌐 Socials:
